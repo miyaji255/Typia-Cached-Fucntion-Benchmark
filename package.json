@@ -1,0 +1,10 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"tsx": "^4.16.2"
+	},
+	"dependencies": {
+		"tinybench": "^2.8.0",
+		"typia": "^6.6.1"
+	}
+}
