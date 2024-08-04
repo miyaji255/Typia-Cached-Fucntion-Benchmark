@@ -2,6 +2,8 @@
 
 This repository is benchmarked when caching with Typia's create* functions.
 
+https://github.com/samchon/typia/issues/1190
+
 | (index) | Task Name           | ops/sec     | Average Time (ns)  | Margin   | Samples |
 | ------- | ------------------- | ----------- | ------------------ | -------- | ------- |
 | 0       | 'cached - OK'       | '9,340,070' | 107.06557722464086 | '±0.65%' | 4670036 |
